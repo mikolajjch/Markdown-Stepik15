@@ -12,3 +12,5 @@
 
 >super cytat
 >>drugi cytat
+
+![./keep-calm-and-markdown.png](./keep-calm-and-markdown.png)
