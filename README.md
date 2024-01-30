@@ -22,10 +22,11 @@ Listy
 3. oo
 	1. ?
 
-*listewka
-	* tego
-	* typu
-*listenka2
-	* taajes
+Listenki nieuporz
+* listewka
++ tego
++ typu
+* listenka2
+- taajes
 
 ![./keep-calm-and-markdown.png](./keep-calm-and-markdown.png)
