@@ -29,4 +29,11 @@ Listenki nieuporz
 * listenka2
 	- taajes
 
+``
+li = [0,1]
+for i in range(5):
+	li.append(li[len(li)-1+li[len(li)-2])
+	print(li)
+``
+
 ![./keep-calm-and-markdown.png](./keep-calm-and-markdown.png)
