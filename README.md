@@ -24,9 +24,9 @@ Listy
 
 Listenki nieuporz
 * listewka
-+ tego
-+ typu
+	+ tego
+	+ typu
 * listenka2
-- taajes
+	- taajes
 
 ![./keep-calm-and-markdown.png](./keep-calm-and-markdown.png)
